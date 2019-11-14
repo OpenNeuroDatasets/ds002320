@@ -1,0 +1,12 @@
+{
+    "Name": "Dynamic_Passive_Threat",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "Pessoa, L."
+    ],
+    "ReferencesAndLinks": [
+        "http://lce.umd.edu"
+    ],
+    "DatasetDOI": "10.11",
+    "License": "CC0"
+}
