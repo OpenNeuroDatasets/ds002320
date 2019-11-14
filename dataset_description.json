@@ -12,5 +12,8 @@
     ],
     "DatasetDOI": "10.18112/openneuro.ds002320.v1.0.0",
     "License": "CC0",
-    "Acknowledgements": "We would like to thank Brenton McMenamin for paradigm development, Dan Levitas for data collection, Jason Smith for help with processing scripts, Mahshid Najafi for help with initial preprocessing of the fMRI data, and Nicole Friedman and Jessica Berman for help with participant recruitment. The authors also acknowledge the Behavioral and Social Sciences College, University of Maryland, high-performance computing resources (http://bsos.umd.edu/oacs/bsos-high-performance) made available for conducting the research reported in this article. The authors acknowledge funding from the National Institute of Mental Health (R01 MH071589 and R01 MH112517) and a National Science Foundation Graduate Research Fellowship to S. P."
+    "Acknowledgements": "We would like to thank Brenton McMenamin for paradigm development, Dan Levitas for data collection, Jason Smith for help with processing scripts, Mahshid Najafi for help with initial preprocessing of the fMRI data, and Nicole Friedman and Jessica Berman for help with participant recruitment. The authors also acknowledge the Behavioral and Social Sciences College, University of Maryland, high-performance computing resources (http://bsos.umd.edu/oacs/bsos-high-performance) made available for conducting the research reported in this article. The authors acknowledge funding from the National Institute of Mental Health (R01 MH071589 and R01 MH112517) and a National Science Foundation Graduate Research Fellowship to S. P.",
+    "Funding": [
+        "National Institute of Mental Health (R01 MH071589 and R01 MH112517) "
+    ]
 }
