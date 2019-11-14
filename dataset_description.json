@@ -1,11 +1,7 @@
 {
     "Name": "Dynamic_Passive_Threat",
     "BIDSVersion": "1.2.0",
-    "Authors": [
-        "Luiz Pessoa",
-        "Srikanth Padmala",
-        "Christian Meyer"
-    ],
+    "Authors": [],
     "ReferencesAndLinks": [
         "http://lce.umd.edu",
         "Meyer, C., Padmala, S., & Pessoa, L. (2019). Dynamic Threat Processing. Journal of Cognitive Neuroscience, 31(4), 522\u2013542. https://doi.org/10.1162/jocn_a_01363"
