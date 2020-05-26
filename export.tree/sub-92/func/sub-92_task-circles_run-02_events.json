@@ -1,0 +1,5 @@
+{
+    "onset": "Onset of trial",
+    "duration": "Duration during which trial is on screen (s)",
+    "trial_type": "Type of Trial, with 'trial_onset' being the beginning of the trial when the circles appear on screen, 'shock' being the moment whenthe circles touch and a shock is received, and 'fixation' being the moment when the fixation cross appears on the screen"
+}
